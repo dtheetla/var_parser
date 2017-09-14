@@ -22,7 +22,7 @@ Or install it yourself as:
 ## Usage
 ```ruby
 require "var_parser"
-VarParser::extract_instance_vars(file path string)
+VarParser.extract_instance_vars(file path string)
 ```
 
 
